@@ -1,0 +1,6 @@
+@IpLookup_HostAddress = http://localhost:5191
+
+GET {{IpLookup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

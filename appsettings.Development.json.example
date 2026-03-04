@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft.AspNetCore": "Information"
+    }
+  },
+  "ApiKeys": {
+    "IpInfo": "YOUR_IPINFO_TOKEN",
+    "AbuseIpDb": "YOUR_ABUSEIPDB_KEY",
+    "VirusTotal": "YOUR_VIRUSTOTAL_KEY",
+    "Shodan": "YOUR_SHODAN_KEY"
+  },
+  "Redis": {
+    "ConnectionString": "YOUR_UPSTASH_REDIS_URL"
+  }
+}
