@@ -2,8 +2,6 @@
 
 A comprehensive IP address intelligence tool that aggregates data from multiple sources to provide detailed information about any IPv4 or IPv6 address.
 
-![Screenshot](docs/screenshot.png)
-
 ## Features
 
 - **Geolocation**: City, region, country, coordinates, timezone
@@ -195,7 +193,3 @@ Results are cached with staggered TTLs to optimize API usage:
 | Upstash Redis (Free Tier) | $0 |
 | All APIs (Free Tiers) | $0 |
 | **Total** | **~$0-5/month** |
-
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
